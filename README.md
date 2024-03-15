@@ -10,8 +10,17 @@ git submodule update --init --recursive
 ```
 Each of the submodules contain detailed instruction for original model preparation, model calibration, and testing the model with our uncertainty-aware action selection strategy.
 
+You can also access the submodules directly following the links below:
 
-Below are the links to the original github repository for the three models:
+[**UA-Perceiver-Actor**](https://github.com/anonymous23099/uncertainty_quant_peract.git)
+
+[**UA-RVT: Robotic View Transformer**](https://github.com/anonymous23099/uncertainty_quant_rvt.git)
+
+[**UA-CLIPort**](https://github.com/anonymous23099/uncertainty_quant_cliport.git)
+
+
+
+We also provide the links to the original github repository for the three models:
 
 [**Perceiver-Actor**](https://github.com/peract/peract.git)
 
