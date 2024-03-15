@@ -2,21 +2,22 @@
 # Uncertainty-Aware Deployment of Pre-trained Language-Conditioned Imitation Learning Policies
 
 This repository aggregates the repositories of the three models which have been adapted with the uncertainty-aware action selection strategy. 
-Here are the links to the original github repository for the three models:
 
-[**Perceiver-Actor**](https://github.com/peract/peract.git)
 
-[**RVT: Robotic View Transformer**](https://github.com/NVlabs/RVT.git)
-
-[**CLIPort**](https://github.com/cliport/cliport)
-
-You can run the following command after cloning this repository. 
+Our adaptation of the three models are included as submodules. To download them, you can simply run the following command after cloning this repository. 
 ```
 git submodule update --init --recursive
 ```
 Each of the submodules contain detailed instruction for original model preparation, model calibration, and testing the model with our uncertainty-aware action selection strategy.
 
 
+Below are the links to the original github repository for the three models:
+
+[**Perceiver-Actor**](https://github.com/peract/peract.git)
+
+[**RVT: Robotic View Transformer**](https://github.com/NVlabs/RVT.git)
+
+[**CLIPort**](https://github.com/cliport/cliport)
 
 ## Citations
 **PerAct**
