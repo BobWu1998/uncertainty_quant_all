@@ -1,0 +1,9 @@
+[submodule "uncertainty_quant_peract"]
+	path = uncertainty_quant_peract
+	url = https://github.com/anonymous23099/uncertainty_quant_peract.git
+[submodule "uncertainty_quant_rvt"]
+	path = uncertainty_quant_rvt
+	url = https://github.com/anonymous23099/uncertainty_quant_rvt.git
+[submodule "uncertainty_quant_cliport"]
+	path = uncertainty_quant_cliport
+	url = https://github.com/anonymous23099/uncertainty_quant_cliport.git
