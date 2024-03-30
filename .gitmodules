@@ -2,9 +2,9 @@
 	path = uncertainty_quant_peract
 	url = https://github.com/BobWu1998/uncertainty_quant_peract.git
 
-[submodule "uncertainty_quant_peract/PyRep"]
-	path = uncertainty_quant_peract/PyRep
-	url = https://github.com/stepjam/PyRep.git
+# [submodule "uncertainty_quant_peract/PyRep"]
+# 	path = uncertainty_quant_peract/PyRep
+# 	url = https://github.com/stepjam/PyRep.git
 
 # [submodule "uncertainty_quant_peract/YARR"]
 # 	path = uncertainty_quant_peract/YARR
