@@ -4,3 +4,6 @@
 [submodule "uncertainty_quant_cliport"]
 	path = uncertainty_quant_cliport
 	url = https://github.com/BobWu1998/uncertainty_quant_cliport.git
+[submodule "uncertainty_quant_peract"]
+	path = uncertainty_quant_peract
+	url = https://github.com/BobWu1998/uncertainty_quant_peract.git
