@@ -21,6 +21,3 @@
 [submodule "uncertainty_quant_cliport"]
 	path = uncertainty_quant_cliport
 	url = https://github.com/BobWu1998/uncertainty_quant_cliport.git
-[submodule "PyRep"]
-	path = PyRep
-	url = https://github.com/stepjam/PyRep.git
